@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Expresiones\Expresiones\bin\Debug\Expresiones.exe.config
+C:\Users\alexb\source\repos\Expresiones\Expresiones\bin\Debug\Expresiones.exe
+C:\Users\alexb\source\repos\Expresiones\Expresiones\bin\Debug\Expresiones.pdb
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.Form1.resources
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.Properties.Resources.resources
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.exe
+C:\Users\alexb\source\repos\Expresiones\Expresiones\obj\Debug\Expresiones.pdb
